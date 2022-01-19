@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Vasliddin Alijonov
-- 👀 I’m interested in ..
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me  +998 99 518 38 35
-- Mening telegram manzilim: https://t.me/AlijonovV2005
+- 👋 Hi, I’m Vasliddin Alijonov
+- 🌱 I’m currently learning Python programming
+- 💞️ I’m looking to collaborat Google company
+- 📫 How to reach me:  +998 99 518 38 35
+- 👀  My telegram address: https://t.me/AlijonovV2005
